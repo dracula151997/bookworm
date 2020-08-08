@@ -1,0 +1,14 @@
+propTypes
+functions (js)
+----------------------------------------------------
+boolean expressions !!
+    Note: 
+        1- == equal to (value only)
+        2- === equal to (value and type). Types may String, int, so on...
+        3- !== not equal (value and type)
+        4- !! not not. (return true if the returned value is false)
+    Very Important not: 
+        1- Everything with a value is 'True'
+        2- "", 0, null, undefined, NaN = 'False'
+        3- Comparing two objects will always return 'False'
+------------------------------------------------------
